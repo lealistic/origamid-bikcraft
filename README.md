@@ -36,6 +36,8 @@ Projeto desenvolvido durante o curso da Origamid, com o objetivo de reforçar co
 
 ✔ Acessibilidade com atributos como aria-labelledby para leitores de tela.
 
+🔗 [Acesse o projeto finalizado, online](https://lealistic.github.io/origamid-bikcraft/)
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
