@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Bikcraft" src=".github/readme-img.png" width="100%">
+  <img alt="Bikcraft Landing Page" src=".github/readme-img.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
