@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Bikcraft</h1>
+<h1 align="center">Bikcraft Landing Page</h1>
 
 <!--Pontos de Navegação-->
 <p align="center">
