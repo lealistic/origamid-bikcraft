@@ -15,6 +15,18 @@
   --bt-text: #fff;
   --wave: url("./assets/onda.svg");
 }
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-bg-color: #111;
+    --other-bg-color: #000;
+    --subtitle-color: #ffffff3e;
+    --primary-color: #ee2211;
+    --primary-hover: #b51b0d;
+    --text-color: #fff;
+    --wave: url("./assets/onda-dark.svg");
+  }
+}
 /*General Styles*/
 body {
   font-family: Arial, Helvetica, sans-serif;
