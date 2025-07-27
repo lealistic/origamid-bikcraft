@@ -32,6 +32,8 @@ Projeto desenvolvido durante o curso da Origamid, com o objetivo de reforçar co
 
 ✔ Layouts com Grid e Flexbox para alinhamento responsivo;
 
+✔ Propriedades CSS customizadas fazendo uso do seletor `:root`;
+
 ✔ Media Queries para adaptação a diferentes telas e tema escuro do sistema;
 
 ✔ Acessibilidade com atributos como aria-labelledby para leitores de tela.
