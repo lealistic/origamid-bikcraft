@@ -11,7 +11,7 @@
   --primary-bg-color: #f7f7f7;
   --other-bg-color: #fff;
   --text-color: #000;
-  --subtitle-color: #0000003e;
+  --subtitle-color: #bbbbbb;
   --bt-text: #fff;
   --wave: url("./assets/onda.svg");
 }
@@ -20,7 +20,7 @@
   :root {
     --primary-bg-color: #111;
     --other-bg-color: #000;
-    --subtitle-color: #ffffff3e;
+    --subtitle-color: #4b4b4b;
     --primary-color: #ee2211;
     --primary-hover: #b51b0d;
     --text-color: #fff;
@@ -37,6 +37,8 @@ body {
 }
 img {
   max-width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 p,
 h4 {
@@ -182,7 +184,7 @@ footer {
   padding: 2.5rem;
 }
 /* Responsive Breakpoints*/
-@media (max-width: 775px) {
+@media (max-width: 950px) {
   body {
     margin-top: 2rem;
   }
@@ -199,7 +201,7 @@ footer {
     text-align: center;
   }
 }
-@media (max-width: 640px) {
+@media (max-width: 700px) {
   .about-bike {
     grid-template-columns: 1fr;
   }
