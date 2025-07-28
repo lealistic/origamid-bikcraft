@@ -26,17 +26,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o curso da Origamid, com o objetivo de reforçar conceitos fundamentais de HTML e CSS. A landing page da Bikcraft (marca fictícia) aplica:
+Desenvolvi uma landing page responsiva para a marca fictícia Bikcraft como parte do curso da Origamid, com foco em consolidar os fundamentos de **HTML e CSS**. Durante o desenvolvimento, apliquei:
 
-✔ HTML Semântico para melhor estruturação;
+✔ **HTML Semântico** para uma estrutura bem organizada e acessível;
 
-✔ Layouts com Grid e Flexbox para alinhamento responsivo;
+✔ **CSS Grid e Flexbox** para criar layouts responsivos e alinhados;
 
-✔ Propriedades CSS customizadas fazendo uso do seletor `:root`;
+✔ **Variáveis CSS** com `:root` para facilitar a manutenção e personalização do estilo;
 
-✔ Media Queries para adaptação a diferentes telas e tema escuro do sistema;
+✔ **Media Queries** para garantir adaptação a diferentes tamanhos de tela e suporte ao tema escuro do sistema através do `prefers-color-scheme`;
 
-✔ Acessibilidade com atributos como aria-labelledby para leitores de tela.
+✔ **Acessibilidade** aprimorada com atributos como `aria-labelledby` para compatibilidade com leitores de tela.
 
 🔗 [Acesse o projeto finalizado, online](https://lealistic.github.io/origamid-bikcraft/)
 
